@@ -1,0 +1,4 @@
+kompilacja: ghc -o gomoku gomoku.hs
+
+Mój algorytm MinMax dla rozmiaru planszy 19 działa niestety bardzo bardzo długo, dlatego głębokość drzewa ustawiłem na 1. Aby sprawdzić jego działanie należy zmniejszyć rozmiar planszy (na np 6) i zwiększyć głębokość (np. 3).
+
